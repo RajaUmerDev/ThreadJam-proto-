@@ -1,0 +1,1680 @@
+fileFormatVersion: 2
+guid: 9e75bcc88344e48ac9c0907be300b874
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MultiProducer_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7190
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cb319db6b3d466ebbf15752c181c87
+      internalID: 658122422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_1
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 7202
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8d17f00119a4cc48ee5df64af31c13
+      internalID: 993731275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_2
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 7202
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219a34ea27c304acfa212d95d68ccd97
+      internalID: 197262534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_3
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 7202
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41833808fb844c6e992bf08c7bf5e7c
+      internalID: -440122508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_4
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 7202
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7980c11dbe9d4b778a4bc71ff8c70f9
+      internalID: -685660403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6648
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a9349c6e2324a8c97d83635766304e
+      internalID: -480324377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_6
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 6648
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef28b929c54904729930d18fd5d7f530
+      internalID: -1934669518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_7
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 6648
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26fb0faa8bbd4febb499b015522a6db
+      internalID: -1931776061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_8
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 6648
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a738c0789f22747e9aaee8b9c0560603
+      internalID: -1460814558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_9
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 6648
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bd5221eaccb4aad9cd516cce05edf8
+      internalID: -700080900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6094
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37acdf6a98ca0405ab5ecbe9a5e48958
+      internalID: 881785238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_11
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 6094
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f7b0a37b3914dc3bb10785ee55f3d4
+      internalID: 1895787194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_12
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 6094
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2485652ab372347abb5ef162f121f836
+      internalID: -1336933439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_13
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 6094
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1fde57e49294186a35f5a120bc4f36
+      internalID: 722451982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_14
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 6094
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22481ea2c7d04564bfe94ab7359842b
+      internalID: 439855474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5540
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd133c2212c9e499ab4807fc13b010ec
+      internalID: 1338666539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_16
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 5540
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44df1f1d3b254654a00d36ca2e5a78b
+      internalID: -2142920417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_17
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 5540
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4598a27ad3667473cbfc9369a6dbefd0
+      internalID: -910381905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_18
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 5540
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c610859ea4ed3451ea77ebfd017fde84
+      internalID: 940672448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_19
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 5540
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f258a9941884f8ca395544a3234ee6
+      internalID: 1110543761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4986
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71ec5b05f6bb4e409c1f2a31d03d9bf
+      internalID: -1576511382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_21
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 4986
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf71771cb64e4391af5fcce6cb4c819
+      internalID: -516451069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_22
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 4986
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01e42726648946458cb8e8b03ac630b
+      internalID: -862646752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_23
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 4986
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcefd75c27c6a4b069bebe4df01370c4
+      internalID: -1395007814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_24
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 4986
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a159131888343a2bf891d8ba260f67
+      internalID: 983150262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4432
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0880041d250a840ec90cc483e6f0bfde
+      internalID: 993484240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_26
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 4432
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606619ae595324615b6741016bdffff9
+      internalID: 956095892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_27
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 4432
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452bb2d8b129c4e478e3fdee2d8a15eb
+      internalID: -715691242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_28
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 4432
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b00eeddd851449b8b35a009aeb2e56
+      internalID: 1635232051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_29
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 4432
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c68972e0475486381ffde019f5d43f
+      internalID: -657805074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3878
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c51cb2b06b4f4b0ba5dbd898ef6d373
+      internalID: 1917171802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_31
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 3878
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a577525379345c79a627e24c140ee1
+      internalID: -975379317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_32
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 3878
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a652b46f3f034ade970139feffebc0b
+      internalID: -1379327549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_33
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 3878
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79d243047582454c83a2ef23ed42c36
+      internalID: -246382937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_34
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 3878
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b211d8e479f84f7aba44137bba1196b
+      internalID: 591705461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3324
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c7600ce0816422bbcb4f1920a7af30
+      internalID: 456049482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_36
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 3324
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efbb4f5056144a7f99363ff284962d9
+      internalID: -1202285925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_37
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 3324
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d234fd188672443cfa530717eb0060a3
+      internalID: -943088476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_38
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 3324
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55456bc60cd54f209a313428abf325d
+      internalID: -809099655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_39
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 3324
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719269966d5db4c36ac8aa0160e72bf8
+      internalID: -1841025803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2770
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484be60cc73994b64b98dcbafd7550ab
+      internalID: -1352809933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_41
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2770
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c19390f12fbd4f9f95f27bfc35cb23f
+      internalID: 1458991900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_42
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2770
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a90818373f543249fe0d5447d624a6
+      internalID: -1081166388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_43
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 2770
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c04485596894d56be2d79944155f41
+      internalID: -1597227485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_44
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 2770
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91fded2b49764e849e04b596b655445
+      internalID: 610401226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2216
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f2ee95932b54b54b8021b46dc7b486
+      internalID: -1812836975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_46
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2216
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9963186222f7d405a8913afdceb5cb86
+      internalID: 521610769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_47
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2216
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f8a33ae12fb46c28a0a0dd9b67d3e5
+      internalID: -1337948746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_48
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 2216
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da1d751110e4cc998b71c2dab1aaac
+      internalID: -1760958433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_49
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 2216
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eab5f34967164270a2ed41da35255fc
+      internalID: 703107896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1662
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89a6e140d90b416f94c334b57601d42
+      internalID: 1651317181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_51
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1662
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61074618c57e4c9b9c08fff266b93fa
+      internalID: -1748679087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_52
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1662
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933b11877218946f18c89736589f89d4
+      internalID: 1864890906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_53
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 1662
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c72854e7f61247d4a4c17a1b5d2c4ed
+      internalID: 1258956240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_54
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 1662
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40e0fc9a9f414e4f9493b3d574c96eb
+      internalID: -79645874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1108
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a62cf40146b7457b89d70fe4431491c
+      internalID: 1029387788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_56
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1108
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2df06352e8d439b9fa4755a6e8af39
+      internalID: -528510388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_57
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1108
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f86ba332067c4bf8b625aff08b06809
+      internalID: 341026274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_58
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 1108
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f0a5849209941ed9f44430d21f5766
+      internalID: 768959805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_59
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 1108
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c014485952e64f329eddc79cd07e4dc
+      internalID: 998933059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7daa49569494a98b4f9807bf931a4c
+      internalID: 1067035900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_61
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 554
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b39468f2ad0541ad8733bd1283bfbf8
+      internalID: -599493092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_62
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 554
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d6b04db8fe8436ba6f7f5c08407af5
+      internalID: 1302070610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_63
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 554
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8caf10f72a2497b8e1d5a5cf5a5256
+      internalID: -59152698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_64
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 554
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461fa9d2e85a54c29a7e14b0ed6f350d
+      internalID: -1835259807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2437fdc3df4f049cc9620e332a424d51
+      internalID: 222681113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_66
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72506b826eb734d6cad21a259c60aba9
+      internalID: 1712865432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_67
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 0
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdbb2bb914e742d79de34959370c2e3
+      internalID: -784711062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_68
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 0
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae74838c0de040289e127aa4da70bf7
+      internalID: -773523649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiProducer_69
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 0
+        width: 990
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83c44a1c2d7441ffb91bc7a6b8b3a3a
+      internalID: 1796033461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e67f512e78be4da9bc99b520b4426f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MultiProducer_0: 658122422
+      MultiProducer_1: 993731275
+      MultiProducer_10: 881785238
+      MultiProducer_11: 1895787194
+      MultiProducer_12: -1336933439
+      MultiProducer_13: 722451982
+      MultiProducer_14: 439855474
+      MultiProducer_15: 1338666539
+      MultiProducer_16: -2142920417
+      MultiProducer_17: -910381905
+      MultiProducer_18: 940672448
+      MultiProducer_19: 1110543761
+      MultiProducer_2: 197262534
+      MultiProducer_20: -1576511382
+      MultiProducer_21: -516451069
+      MultiProducer_22: -862646752
+      MultiProducer_23: -1395007814
+      MultiProducer_24: 983150262
+      MultiProducer_25: 993484240
+      MultiProducer_26: 956095892
+      MultiProducer_27: -715691242
+      MultiProducer_28: 1635232051
+      MultiProducer_29: -657805074
+      MultiProducer_3: -440122508
+      MultiProducer_30: 1917171802
+      MultiProducer_31: -975379317
+      MultiProducer_32: -1379327549
+      MultiProducer_33: -246382937
+      MultiProducer_34: 591705461
+      MultiProducer_35: 456049482
+      MultiProducer_36: -1202285925
+      MultiProducer_37: -943088476
+      MultiProducer_38: -809099655
+      MultiProducer_39: -1841025803
+      MultiProducer_4: -685660403
+      MultiProducer_40: -1352809933
+      MultiProducer_41: 1458991900
+      MultiProducer_42: -1081166388
+      MultiProducer_43: -1597227485
+      MultiProducer_44: 610401226
+      MultiProducer_45: -1812836975
+      MultiProducer_46: 521610769
+      MultiProducer_47: -1337948746
+      MultiProducer_48: -1760958433
+      MultiProducer_49: 703107896
+      MultiProducer_5: -480324377
+      MultiProducer_50: 1651317181
+      MultiProducer_51: -1748679087
+      MultiProducer_52: 1864890906
+      MultiProducer_53: 1258956240
+      MultiProducer_54: -79645874
+      MultiProducer_55: 1029387788
+      MultiProducer_56: -528510388
+      MultiProducer_57: 341026274
+      MultiProducer_58: 768959805
+      MultiProducer_59: 998933059
+      MultiProducer_6: -1934669518
+      MultiProducer_60: 1067035900
+      MultiProducer_61: -599493092
+      MultiProducer_62: 1302070610
+      MultiProducer_63: -59152698
+      MultiProducer_64: -1835259807
+      MultiProducer_65: 222681113
+      MultiProducer_66: 1712865432
+      MultiProducer_67: -784711062
+      MultiProducer_68: -773523649
+      MultiProducer_69: 1796033461
+      MultiProducer_7: -1931776061
+      MultiProducer_8: -1460814558
+      MultiProducer_9: -700080900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

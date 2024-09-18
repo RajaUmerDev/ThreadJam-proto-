@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 0ab4eb04c6d4a4b0c993546ae8d35084
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hidden Mechanic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4848
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632f2bafdc4e3497b8e9f0e17d679426
+      internalID: -1254654725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_1
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 4848
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba575d932964c428e8b1f88dbf124d9f
+      internalID: -618123824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_2
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 4848
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c03771ac03740a1b63a442fe0c486b
+      internalID: -657280857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_3
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 4848
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271de63cf49b3493bb763ac6beeeea39
+      internalID: 796080729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_4
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 4848
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8ff1393a8724a57ac961c4784a8912
+      internalID: -2123624733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4040
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48853f34f9604e03ae31569f2e0c23d
+      internalID: -637002947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_6
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 4040
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a190d6175544c88814bef188cbbfd9
+      internalID: 2105591548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_7
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 4040
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a4415506b0a45e8ade254a8045316e
+      internalID: 1598143735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_8
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 4040
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328cb7c19300c42f9b127ce4bf1e8e00
+      internalID: -216203224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_9
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 4040
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992438fbef02d41e1a65485a9832c1c7
+      internalID: 2061611087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3232
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dad2e9ac66c6443bbfb0e06bb1105c1
+      internalID: -1418362641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_11
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 3232
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0867bd8251c4bbda3d2d7ab1f27b42
+      internalID: -1102425762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_12
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 3232
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32a204ac72f8422087dceedd6046da5
+      internalID: -469804982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_13
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 3232
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65e373051949423fbe1e8fed24569fa
+      internalID: 49731588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_14
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 3232
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce9978edfe4a4e0f9bc2a7a24d525e2
+      internalID: -1676798506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2424
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f75669995b14a2d88ddc6faab1a517
+      internalID: 1914201055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_16
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2424
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7034c581f10a4c5fbd1f90af4fd2af3
+      internalID: -1175714121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_17
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 2424
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6046b79dc7f45329abc051f7329317
+      internalID: -86922688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_18
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 2424
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d805573457e48ea902c4435cd78597
+      internalID: 619070166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_19
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 2424
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c48b1889b164d67affbc92a1050ba0
+      internalID: 450325520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1616
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b614d689fb364420996380e2c8875d82
+      internalID: 683806713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_21
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1616
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ffe703a86234de381c7922689c13ca
+      internalID: -340630251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_22
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 1616
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7271178654c1a49a9a01419adb40fd33
+      internalID: -257252226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_23
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 1616
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b511b2f357b27430a85e0a8279f06472
+      internalID: -1523882913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_24
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 1616
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755086d176efd4c7eb134e543dfb9de3
+      internalID: -227343895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba72c7a8bc1c492c839db249790dcbe
+      internalID: 323424080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_26
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 808
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72b8e1d3512341adbc9a79ee23ffe41
+      internalID: -1666627592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_27
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 808
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aded33311bd4e4e8104f975debc4f7
+      internalID: 444720506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_28
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 808
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96113ab7638841d799073e622b68a9c
+      internalID: -1548299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_29
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 808
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c887e9bc892b4185a3ac88fe9f01456
+      internalID: 1959648827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6535897d9b948b89221dfcb3a3e524
+      internalID: 1984715807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_31
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01517aab31a194190ac8de6ef40d329e
+      internalID: -1080509996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_32
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 0
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c2098bcdcd440988816e27cc39ad67
+      internalID: -1987954464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_33
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 0
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b572fb2a1fe476ca23a4346092e97b
+      internalID: -287569862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Mechanic_34
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 0
+        width: 1448
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139e3706a70544edfa9a5e01e19390d9
+      internalID: 627784570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6599d59f4b72448f3ba449fe1d5c25c1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Hidden Mechanic_0: -1254654725
+      Hidden Mechanic_1: -618123824
+      Hidden Mechanic_10: -1418362641
+      Hidden Mechanic_11: -1102425762
+      Hidden Mechanic_12: -469804982
+      Hidden Mechanic_13: 49731588
+      Hidden Mechanic_14: -1676798506
+      Hidden Mechanic_15: 1914201055
+      Hidden Mechanic_16: -1175714121
+      Hidden Mechanic_17: -86922688
+      Hidden Mechanic_18: 619070166
+      Hidden Mechanic_19: 450325520
+      Hidden Mechanic_2: -657280857
+      Hidden Mechanic_20: 683806713
+      Hidden Mechanic_21: -340630251
+      Hidden Mechanic_22: -257252226
+      Hidden Mechanic_23: -1523882913
+      Hidden Mechanic_24: -227343895
+      Hidden Mechanic_25: 323424080
+      Hidden Mechanic_26: -1666627592
+      Hidden Mechanic_27: 444720506
+      Hidden Mechanic_28: -1548299
+      Hidden Mechanic_29: 1959648827
+      Hidden Mechanic_3: 796080729
+      Hidden Mechanic_30: 1984715807
+      Hidden Mechanic_31: -1080509996
+      Hidden Mechanic_32: -1987954464
+      Hidden Mechanic_33: -287569862
+      Hidden Mechanic_34: 627784570
+      Hidden Mechanic_4: -2123624733
+      Hidden Mechanic_5: -637002947
+      Hidden Mechanic_6: 2105591548
+      Hidden Mechanic_7: 1598143735
+      Hidden Mechanic_8: -216203224
+      Hidden Mechanic_9: 2061611087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

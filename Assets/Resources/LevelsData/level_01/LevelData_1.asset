@@ -1,0 +1,244 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e61393fecf6804eaf87e12c67f835fd0, type: 3}
+  m_Name: LevelData_1
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Grid
+      Entry: 7
+      Data: 0|CellData[,], Assembly-CSharp
+    - Name: 
+      Entry: 12
+      Data: 9
+    - Name: ranks
+      Entry: 1
+      Data: 3|3
+    - Name: 
+      Entry: 7
+      Data: 1|CellData, Assembly-CSharp
+    - Name: tileType
+      Entry: 3
+      Data: 1
+    - Name: isMirror
+      Entry: 5
+      Data: false
+    - Name: isMultiProducer
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|CellData, Assembly-CSharp
+    - Name: tileType
+      Entry: 3
+      Data: 1
+    - Name: isMirror
+      Entry: 5
+      Data: false
+    - Name: isMultiProducer
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|CellData, Assembly-CSharp
+    - Name: tileType
+      Entry: 3
+      Data: 1
+    - Name: isMirror
+      Entry: 5
+      Data: false
+    - Name: isMultiProducer
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|CellData, Assembly-CSharp
+    - Name: tileType
+      Entry: 3
+      Data: 1
+    - Name: isMirror
+      Entry: 5
+      Data: false
+    - Name: isMultiProducer
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|CellData, Assembly-CSharp
+    - Name: tileType
+      Entry: 3
+      Data: 1
+    - Name: isMirror
+      Entry: 5
+      Data: false
+    - Name: isMultiProducer
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|CellData, Assembly-CSharp
+    - Name: tileType
+      Entry: 3
+      Data: 1
+    - Name: isMirror
+      Entry: 5
+      Data: false
+    - Name: isMultiProducer
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|CellData, Assembly-CSharp
+    - Name: tileType
+      Entry: 3
+      Data: 1
+    - Name: isMirror
+      Entry: 5
+      Data: false
+    - Name: isMultiProducer
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|CellData, Assembly-CSharp
+    - Name: tileType
+      Entry: 3
+      Data: 1
+    - Name: isMirror
+      Entry: 5
+      Data: false
+    - Name: isMultiProducer
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|CellData, Assembly-CSharp
+    - Name: tileType
+      Entry: 3
+      Data: 1
+    - Name: isMirror
+      Entry: 5
+      Data: false
+    - Name: isMultiProducer
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  Row: 3
+  Column: 3
+  _: _____________________________________________BOXES DATA____________________________________________
+  BoxDataList:
+  - reelDataList:
+    - reelsSet: {fileID: 2928448179636773324, guid: 212457f95bc6743e2a366408586e1ef3,
+        type: 3}
+      count: 3
+    - reelsSet: {fileID: 2928448179636773324, guid: 818547cfcf5324cb98a0d26330a5d30c,
+        type: 3}
+      count: 3
+  - reelDataList:
+    - reelsSet: {fileID: 2928448179636773324, guid: 818547cfcf5324cb98a0d26330a5d30c,
+        type: 3}
+      count: 3
+    - reelsSet: {fileID: 2928448179636773324, guid: 212457f95bc6743e2a366408586e1ef3,
+        type: 3}
+      count: 3
+  - reelDataList:
+    - reelsSet: {fileID: 2928448179636773324, guid: 818547cfcf5324cb98a0d26330a5d30c,
+        type: 3}
+      count: 3
+    - reelsSet: {fileID: 2928448179636773324, guid: 755a4daabc81b4fa8ad2b2100ccaa481,
+        type: 3}
+      count: 3
+  - reelDataList:
+    - reelsSet: {fileID: 2928448179636773324, guid: 755a4daabc81b4fa8ad2b2100ccaa481,
+        type: 3}
+      count: 3
+    - reelsSet: {fileID: 2928448179636773324, guid: 212457f95bc6743e2a366408586e1ef3,
+        type: 3}
+      count: 3
+  - reelDataList:
+    - reelsSet: {fileID: 2928448179636773324, guid: 212457f95bc6743e2a366408586e1ef3,
+        type: 3}
+      count: 3
+    - reelsSet: {fileID: 2928448179636773324, guid: 755a4daabc81b4fa8ad2b2100ccaa481,
+        type: 3}
+      count: 3
+  - reelDataList:
+    - reelsSet: {fileID: 2928448179636773324, guid: 818547cfcf5324cb98a0d26330a5d30c,
+        type: 3}
+      count: 3
+    - reelsSet: {fileID: 2928448179636773324, guid: 212457f95bc6743e2a366408586e1ef3,
+        type: 3}
+      count: 3
+  - reelDataList:
+    - reelsSet: {fileID: 2928448179636773324, guid: 755a4daabc81b4fa8ad2b2100ccaa481,
+        type: 3}
+      count: 3
+    - reelsSet: {fileID: 2928448179636773324, guid: 818547cfcf5324cb98a0d26330a5d30c,
+        type: 3}
+      count: 3
+  - reelDataList:
+    - reelsSet: {fileID: 2928448179636773324, guid: 212457f95bc6743e2a366408586e1ef3,
+        type: 3}
+      count: 3
+    - reelsSet: {fileID: 2928448179636773324, guid: 818547cfcf5324cb98a0d26330a5d30c,
+        type: 3}
+      count: 3
+  - reelDataList:
+    - reelsSet: {fileID: 2928448179636773324, guid: 212457f95bc6743e2a366408586e1ef3,
+        type: 3}
+      count: 3
+    - reelsSet: {fileID: 2928448179636773324, guid: 818547cfcf5324cb98a0d26330a5d30c,
+        type: 3}
+      count: 3
+  carrierToSpawn:
+  - CarrierType: {fileID: 0}
+  - CarrierType: {fileID: 0}
+  - CarrierType: {fileID: 0}
